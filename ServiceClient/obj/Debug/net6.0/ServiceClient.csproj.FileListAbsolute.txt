@@ -1,0 +1,15 @@
+C:\Users\SABAH YAZILIM\Desktop\C# NOTE\OCAK\27.01.2023\WebAPI\ServiceClient\bin\Debug\net6.0\ServiceClient.exe
+C:\Users\SABAH YAZILIM\Desktop\C# NOTE\OCAK\27.01.2023\WebAPI\ServiceClient\bin\Debug\net6.0\ServiceClient.deps.json
+C:\Users\SABAH YAZILIM\Desktop\C# NOTE\OCAK\27.01.2023\WebAPI\ServiceClient\bin\Debug\net6.0\ServiceClient.runtimeconfig.json
+C:\Users\SABAH YAZILIM\Desktop\C# NOTE\OCAK\27.01.2023\WebAPI\ServiceClient\bin\Debug\net6.0\ServiceClient.dll
+C:\Users\SABAH YAZILIM\Desktop\C# NOTE\OCAK\27.01.2023\WebAPI\ServiceClient\bin\Debug\net6.0\ServiceClient.pdb
+C:\Users\SABAH YAZILIM\Desktop\C# NOTE\OCAK\27.01.2023\WebAPI\ServiceClient\obj\Debug\net6.0\ServiceClient.csproj.AssemblyReference.cache
+C:\Users\SABAH YAZILIM\Desktop\C# NOTE\OCAK\27.01.2023\WebAPI\ServiceClient\obj\Debug\net6.0\ServiceClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SABAH YAZILIM\Desktop\C# NOTE\OCAK\27.01.2023\WebAPI\ServiceClient\obj\Debug\net6.0\ServiceClient.AssemblyInfoInputs.cache
+C:\Users\SABAH YAZILIM\Desktop\C# NOTE\OCAK\27.01.2023\WebAPI\ServiceClient\obj\Debug\net6.0\ServiceClient.AssemblyInfo.cs
+C:\Users\SABAH YAZILIM\Desktop\C# NOTE\OCAK\27.01.2023\WebAPI\ServiceClient\obj\Debug\net6.0\ServiceClient.csproj.CoreCompileInputs.cache
+C:\Users\SABAH YAZILIM\Desktop\C# NOTE\OCAK\27.01.2023\WebAPI\ServiceClient\obj\Debug\net6.0\ServiceClient.dll
+C:\Users\SABAH YAZILIM\Desktop\C# NOTE\OCAK\27.01.2023\WebAPI\ServiceClient\obj\Debug\net6.0\refint\ServiceClient.dll
+C:\Users\SABAH YAZILIM\Desktop\C# NOTE\OCAK\27.01.2023\WebAPI\ServiceClient\obj\Debug\net6.0\ServiceClient.pdb
+C:\Users\SABAH YAZILIM\Desktop\C# NOTE\OCAK\27.01.2023\WebAPI\ServiceClient\obj\Debug\net6.0\ServiceClient.genruntimeconfig.cache
+C:\Users\SABAH YAZILIM\Desktop\C# NOTE\OCAK\27.01.2023\WebAPI\ServiceClient\obj\Debug\net6.0\ref\ServiceClient.dll
